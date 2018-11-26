@@ -189,3 +189,6 @@ typings/
 
 # FuseBox cache
 .fusebox/
+
+.DS_Store
+.vscode
